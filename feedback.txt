@@ -1,3 +1,8 @@
 Michal: system to raise awareness about antisemitism and a quiz
 The project, uses some of the concepts we learned in a simple way.
 There is just one python file,three quiz questions and no file for the db creation.
+Python OOP:8/10
+Modules: 6/10
+Database:6/10
+JSON/API:0/10
+Overall: 5
